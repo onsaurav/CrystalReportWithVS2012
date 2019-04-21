@@ -1,0 +1,20 @@
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.exe.config
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.exe
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.pdb
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.csprojResolveAssemblyReference.cache
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.frmMainWindow.resources
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.frmReport.resources
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.Properties.Resources.resources
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.csproj.GenerateResource.Cache
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.exe
+C:\Users\KartikChandra\Desktop\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.pdb
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.exe.config
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.exe
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.pdb
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.exe
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\bin\Debug\CrystalReportWithVS2012.pdb
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.csprojResolveAssemblyReference.cache
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.frmMainWindow.resources
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.frmReport.resources
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.Properties.Resources.resources
+E:\My Soft\C#\CrystalReportWithVS2012\CrystalReportWithVS2012\obj\Debug\CrystalReportWithVS2012.csproj.GenerateResource.Cache
